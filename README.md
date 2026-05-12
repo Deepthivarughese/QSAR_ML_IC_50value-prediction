@@ -1,1 +1,1 @@
-The input file is a set of 607 entries of compounds with SSRI activity against the human serotonin transporter.
+The input file is a set of 607 entries of compounds with SSRI activity against the human serotonin transporter. The input file is uploaded here. Details on dependencies and installations are in the notebook
